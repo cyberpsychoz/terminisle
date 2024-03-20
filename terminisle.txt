@@ -1,0 +1,6 @@
+"terminisle"
+{
+	"title"		"Terminisle"
+	"base"		"base"
+	"menusystem"	"1"
+}
